@@ -14,8 +14,13 @@
 
 
 ### Glad to see you here!  
-insert text here  
-  
+🔎 I am passionate about mathematics, especially in investment and disciplines such as optimization, analysis, statistics and the use of data in the home. 
+
+📈 I get excited when I am presented with an opportunity to use math and data to find connections and create insight that can help make a difference. 
+
+💻 In my spare time, I enjoy programming and electronics. I play with Python, C++ and R. I make mathematical models and build electronic gadgets. You can find some of my projects here on GitHub. Feel free to take a look! 
+
+I love connecting with other passionate people, so feel free to connect with me here on Github! 
 
 <br/>  
 
@@ -23,7 +28,7 @@ insert text here
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I'm currently working on my Github profile  
+- 🔭 I'm currently working on making my Github profile more presentable and less boring.
   
 
 - 🌱 I’m currently learning Python  
