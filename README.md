@@ -28,7 +28,7 @@ I love connecting with other passionate people, so feel free to connect with me 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I'm currently working on making my Github profile more presentable and less boring.
+- 🔭 I'm currently studying for my exams this january.
   
 
 - 🌱 I’m currently learning Python  
