@@ -5,9 +5,6 @@
 <a href="https://github.com/mjoerck" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/magnus.joerck" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
 </div>  
   
 
@@ -18,7 +15,7 @@
 
 📈 I get excited when I am presented with an opportunity to use math and data to find connections and create insight that can help make a difference. 
 
-💻 In my spare time, I enjoy programming and electronics. I play with Python, C++ and R. I make mathematical models and build electronic gadgets. You can find some of my projects here on GitHub. Feel free to take a look! 
+💻 In my spare time, I enjoy programming and electronics. I play with Python, MATLAB, C++ and R. I make mathematical models and build electronic gadgets. You can find some of my projects here on GitHub. Feel free to take a look! 
 
 I love connecting with other passionate people, so feel free to connect with me here on Github! 
 
@@ -28,14 +25,11 @@ I love connecting with other passionate people, so feel free to connect with me 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I'm currently studying for my exams this january.
+- 🔭 I'm currently studying for my exams this summer.
   
 
-- 🌱 I’m currently learning Python  
-  
-
-- ❓ Ask me about anything related to drones  
-  
+- 🌱 I’m currently learning Python, MATLAB and numerical analysis
+   
 
 - ⚡ Fun fact: I like biking  
 
